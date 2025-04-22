@@ -1,74 +1,80 @@
-🧠 TopRankAgent - Discover Top Agents
-全球 GPTs 与 MCP 智能体服务器评测与推荐平台
+# TopRankAgent
 
+🌍 **Discover Top Agents - Global GPTs and MCP Server and Agents Evaluation Platform**
 
+[🔗 Visit the Platform](https://toprankagent.com)
 
+---
 
-📌 项目简介
-TopRankAgent 是一个致力于打造最全、最新、最实用的 智能体（Agent）和多模型计算节点（MCP）评测平台。我们的目标是帮助 AI 从业者、开发者和爱好者快速选择合适的智能体服务节点（如 LoopGPT、AutoGPT 等）与最优算力资源（MCP Server）。
+## 🚀 Project Overview
 
-该平台通过评测性能、响应速度、支持模型、地区可用性等维度，为用户提供：
+**TopRankAgent** is a global evaluation platform focused on **GPT agents** and **MCP servers**. Our mission is to build the **most comprehensive and up-to-date repository** of intelligent agent benchmarks, helping users easily discover and compare AI agents and backend MCP nodes.
 
-🌍 智能体工具与平台汇总
+This project aims to:
 
-🚀 MCP Server 节点实时测速
+- Evaluate and rank GPT-based agents and MCP server nodes
+- Analyze performance metrics such as latency, stability, model support, and region availability
+- Provide recommendations for developers, researchers, and businesses
+- Offer **exclusive push notifications and analysis** to our registered members
 
-🧪 可部署 Agent 兼容性测试
+> 🔧 Project completion status: **80%**
 
-🎯 推荐最优配置与节点组合
+---
 
-🗞 推送评测更新给注册会员
+## 🌐 Features
 
-访问平台 👉 https://toprankagent.com
+- 🌟 **Top Agent Rankings** by performance and features
+- ⚡ **MCP Server Evaluation** with latency and compatibility insights
+- 📊 **Detailed Benchmarks** across various agent types (fully/semi-automatic, SOP-based)
+- 🔔 **Member Notifications** with new updates and featured agents
+- 🔍 **Search and Filtering** to find the right AI agent or backend
+- 🧩 **Open Source Intelligence** curated from GitHub and developer communities
 
-🎯 核心功能
-🔎 Agent 探索页：分类展示主流开源 Agent（AutoGPT、BabyAGI、SuperAgent 等）
+---
 
-🧭 MCP 性能评测：全球不同地区的 AI Server 节点速度与延迟对比
+## 📌 Why This Matters
 
-🧠 AI 模型支持信息：每个 MCP 支持的 LLM、Embedding、语音等模型一览
+In the rapidly evolving AI landscape, users face challenges in choosing reliable and efficient agents or backends. TopRankAgent solves this by:
 
-📈 排名推荐系统：基于访问量、评分、测速结果的智能排序
+- Centralizing fragmented agent information
+- Offering unbiased, data-driven rankings
+- Supporting users in deploying AI agents that suit their actual business needs
 
-📬 会员订阅推送：更新自动推送，支持邮箱 & Telegram
+---
 
-🧩 技术栈
+## 📍 Project URL
 
-后端	前端	数据库	部署	工具
-Laravel 10	Blade + TailwindCSS	MySQL / Redis	Nginx / Supervisor	GitHub Actions, Crontab
-🚧 当前进度（完成度：80%）
- Agent & MCP 数据抓取与分类
+👉 **[https://toprankagent.com](https://toprankagent.com)**
 
- MCP 节点测速系统
+---
 
- 用户收藏 / 评论系统
+## 🛠 Tech Stack
 
- 网站前端 UI 与页面架构
+- Laravel (Backend)
+- MySQL / Redis
+- TailwindCSS + Blade (Frontend)
+- GitHub API / Community Crawlers
 
- 邮件订阅系统（开发中）
+---
 
- MCP 自动测速周期任务优化中
+## 📬 Feedback & Contributions
 
-🧭 快速开始（开发环境）
-bash
-复制
-编辑
-git clone https://github.com/qingjiuzhubei/toprankagent.git
-cd toprankagent
-cp .env.example .env
-composer install
-php artisan key:generate
-php artisan migrate --seed
-npm install && npm run dev
-php artisan serve
-📮 贡献 & 加入我们
-欢迎提交 issue 或 PR，一起共建全球最权威的智能体与算力节点评测平台！
+We're open to collaboration, feature suggestions, and agent submissions.
 
-📧 邮件联系：admin@toprankagent.com
-📣 Telegram交流群：即将开放
+- 👥 Join the discussion: [Issues](https://github.com/qingjiuzhubei/toprankagent/issues)
+- ✨ Contribute to the benchmarks or front-end
+- 📩 Email us via the contact page on [toprankagent.com](https://toprankagent.com)
 
-📄 License
-This project is open-sourced under the MIT license.
+---
+
+## 📄 License
+
+[MIT License](./LICENSE)
+
+---
+
+> Built with ❤️ by the TopRankAgent Team – Empowering intelligent agent discovery and evaluation.
+
 
 
 
