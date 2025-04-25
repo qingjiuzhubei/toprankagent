@@ -774,7 +774,7 @@ MCP 客户端是 AI 的“操作台”，以下是几个热门选择：
 
 ### 更多 MCP Server 资源
 
-* [MCP.so](https://www.toprankagent.com/mcp/) 收录了近 8000 MCP Servers
+* [toprankagent.com](https://www.toprankagent.com/mcp/) 收录了近 8000 MCP Servers,且每日更新
 
 
 <img width="1623" alt="image" src="https://github.com/user-attachments/assets/ded7928e-aa17-4bf5-9b1a-ffc3bae2e4ca" />
@@ -848,12 +848,6 @@ MCP 客户端是 AI 的“操作台”，以下是几个热门选择：
 
 ---
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yzfly/Awesome-MCP-ZH&type=Date)](https://www.star-history.com/#yzfly/Awesome-MCP-ZH&Date)
-
----
-
 ## 贡献指南
 
 想加点料？欢迎贡献！  
@@ -865,6 +859,6 @@ MCP 客户端是 AI 的“操作台”，以下是几个热门选择：
 ## 许可证
 
 本项目基于 MIT 许可证，自由使用和修改，请保留版权声明。  
-Copyright (c) 2025 Awesome-MCP-ZH Contributors
+Copyright (c) 2025 Top-Rank_agent Contributors
 
 ---
