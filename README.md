@@ -1,8 +1,8 @@
-# Awesome-MCP-ZH
+# Top Rank Agent
 
 ![](https://files.mdnice.com/user/43439/48b72eef-4bca-4d2b-86e3-0055a1036ea7.jpg)
 
-欢迎来到 `Awesome-MCP-ZH`，一个专为中文用户打造的 MCP（模型上下文协议）资源合集！
+欢迎来到 `toprankagent`，一个专为中文用户打造的 MCP（模型上下文协议）资源合集！
 这里有 MCP 的基础介绍、玩法、客户端、服务器和社区资源，帮你快速上手这个 AI 界的“万能插头”。
 
 [![简体中文](https://img.shields.io/badge/中文文档-点击查看-orange)](README.md) [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
